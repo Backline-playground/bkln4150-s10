@@ -1,4 +1,4 @@
-FROM debian:12.5-slim
+FROM debian:12.15-slim
 
 LABEL org.opencontainers.image.source="https://github.com/Backline-playground/bkln4150-s10"
 
